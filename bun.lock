@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "@alibsoft/n8n-openapi-node",
+      "name": "@amonlibanio/n8n-openapi-node",
       "dependencies": {
         "lodash": "^4.17.21",
         "openapi-types": "^12.1.3",

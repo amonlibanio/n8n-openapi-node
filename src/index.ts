@@ -1,5 +1,5 @@
 /**
- * @alibsoft/n8n-openapi-node
+ * @amonlibanio/n8n-openapi-node
  * 
  * A TypeScript library for converting OpenAPI v3 specifications into n8n node properties.
  * This library provides tools to parse OpenAPI documents and generate the necessary

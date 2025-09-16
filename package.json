@@ -1,5 +1,5 @@
 {
-	"name": "@alibsoft/n8n-openapi-node",
+	"name": "@amonlibanio/n8n-openapi-node",
 	"version": "1.0.0",
 	"description": "Turn OpenAPI specs into n8n node",
 	"main": "dist/src/index.js",
@@ -11,16 +11,16 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/alibsoft/n8n-openapi-node.git"
+		"url": "git+https://github.com/amonlibanio/n8n-openapi-node.git"
 	},
 	"keywords": [
 		"n8n",
 		"openapi"
 	],
-	"author": "alibsoft",
+	"author": "amonlibanio",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/alibsoft/n8n-openapi-node/issues"
+		"url": "https://github.com/amonlibanio/n8n-openapi-node/issues"
 	},
 	"exports": {
 		".": {
@@ -31,7 +31,7 @@
 	"files": [
 		"dist"
 	],
-	"homepage": "https://github.com/alibsoft/n8n-openapi-node#readme",
+	"homepage": "https://github.com/amonlibanio/n8n-openapi-node#readme",
 	"devDependencies": {
 		"@types/lodash": "^4.17.20",
 		"n8n-core": "^1.14.1",
