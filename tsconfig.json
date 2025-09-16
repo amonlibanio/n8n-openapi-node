@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"target": "es2019",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"strict": true,
+		"skipLibCheck": true,
+		"resolveJsonModule": true,
+		"sourceMap": true,
+		"declaration": true,
+		"outDir": "./dist/"
+	},
+	"include": ["src/**/*", "package.json"],
+	"$schema": "https://json.schemastore.org/tsconfig"
+}
